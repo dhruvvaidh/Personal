@@ -1,0 +1,84 @@
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyze actual phenomena" with data.[3] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[4][5]
+
+
+Contents
+1	Foundations
+1.1	Relationship to statistics
+2	Etymology
+2.1	Early usage
+2.2	Modern usage
+3	Impact
+4	Technologies and techniques
+4.1	Techniques
+5	See also
+6	References
+Foundations
+Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains.[6] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, information visualization, data integration, graphic design, complex systems, communication and business.[7][8] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human-computer interaction: users should be able to intuitively control and explore data.[9][10] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[11]
+
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[12] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[13] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.[14] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[15] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data science program. He describes data science as an applied field growing out of traditional statistics.[16] In summary, data science can be therefore described as an applied branch of statistics.
+
+Etymology
+Early usage
+In 1962, John Tukey described a field he called “data analysis,” which resembles modern data science.[16] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C.F. Jeff Wu used the term Data Science for the first time as an alternative name for statistics.[17] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[18][19]
+
+The term “data science” has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[20] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[20] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C.F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[21] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[19]
+
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included “knowledge discovery” and “data mining”.[22][20]
+
+Modern usage
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[23] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[22] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[22] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[24]
+
+The professional title of “data scientist” has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[25] Though it was used by the National Science Board in their 2005 report, "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century," it referred broadly to any key role in managing a digital data collection.[26]
+
+There is still no consensus on the definition of data science and it is considered by some to be a buzzword.[27]
+
+Impact
+Big data is very quickly becoming a vital tool for businesses and companies of all sizes.[28] The availability and interpretation of big data has altered the business models of old industries and enabled the creation of new ones.[28] Data-driven businesses are worth $1.2 trillion collectively in 2020, an increase from $333 billion in the year 2015.[29] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[29] As big data continues to have a major impact on the world, data science does as well due to the close relationship between the two.[29]
+
+Technologies and techniques
+There are a variety of different technologies and techniques that are used for data science which depend on the application. More recently, full-featured, end-to-end platforms have been developed and heavily used for data science and machine learning.
+
+Techniques
+Further information: Statistics § Methods
+Linear Regression
+Logistic Regression
+Decision tree is used as prediction models for classification and data fitting. The decision tree structure can be used to generate rules able to classify or predict target/class/label variable based on the observation attributes.
+Support Vector Machine (SVM)
+Clustering is a technique used to group data together.
+Dimensionality reduction is used to reduce the complexity of data computation so that it can be performed more quickly.
+Machine learning is a technique used to perform tasks by inferencing patterns from data
+See also
+International Journal of Population Data Science
+References
+ Dhar, V. (2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147. Archived from the original on 9 November 2014. Retrieved 2 September 2015.
+ Jeff Leek (12 December 2013). "The key word in "Data Science" is not Data, it is Science". Simply Statistics. Archived from the original on 2 January 2014. Retrieved 1 January 2014.
+ Hayashi, Chikio (1 January 1998). "What is Data Science? Fundamental Concepts and a Heuristic Example". In Hayashi, Chikio; Yajima, Keiji; Bock, Hans-Hermann; Ohsumi, Noboru; Tanaka, Yutaka; Baba, Yasumasa (eds.). Data Science, Classification, and Related Methods. Studies in Classification, Data Analysis, and Knowledge Organization. Springer Japan. pp. 40–51. doi:10.1007/978-4-431-65950-1_3. ISBN 9784431702085.
+ Tony Hey; Stewart Tansley; Kristin Michele Tolle (2009). The Fourth Paradigm: Data-intensive Scientific Discovery. Microsoft Research. ISBN 978-0-9825442-0-4. Archived from the original on 20 March 2017. Retrieved 16 December 2016.
+ Bell, G.; Hey, T.; Szalay, A. (2009). "COMPUTER SCIENCE: Beyond the Data Deluge". Science. 323 (5919): 1297–1298. doi:10.1126/science.1170411. ISSN 0036-8075. PMID 19265007. S2CID 9743327.
+ "About Data Science | Data Science Association". www.datascienceassn.org. Retrieved 3 April 2020.
+ "1. Introduction: What Is Data Science? - Doing Data Science [Book]". www.oreilly.com. Retrieved 3 April 2020.
+ "the three sexy skills of data geeks". m.e.driscoll: data utopian. 27 May 2009. Retrieved 3 April 2020.
+ Yau, Nathan (4 June 2009). "Rise of the Data Scientist". FlowingData. Retrieved 3 April 2020.
+ "Basic Example". benfry.com. Retrieved 3 April 2020.
+ "ASA Statement on the Role of Statistics in Data Science". AMSTATNEWS. American Statistical Association. 1 October 2015. Archived from the original on 20 June 2019. Retrieved 29 May 2019.
+ "Nate Silver: What I need from statisticians - Statistics Views". www.statisticsviews.com. Retrieved 3 April 2020.
+ "What's the Difference Between Data Science and Statistics?". Priceonomics. Retrieved 3 April 2020.
+ DharVasant (1 December 2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147.
+ "Statistics is the least important part of data science « Statistical Modeling, Causal Inference, and Social Science". statmodeling.stat.columbia.edu. Retrieved 3 April 2020.
+ Donoho, David (18 September 2015). "50 years of Data Science" (PDF). Retrieved 2 April 2020.
+ Wu, C. F. Jeff (1986). "Future directions of statistical research in China: a historical perspective" (PDF). Application of Statistics and Management. 1: 1–7. Retrieved 29 November 2020.
+ Data science and its applications = La @science des données et ses applications. Escoufier, Yves., Hayashi, Chikio (1918-....)., Fichet, Bernard. Tokyo: Academic Press/Harcourt Brace. 1995. ISBN 0-12-241770-4. OCLC 489990740.
+ Murtagh, Fionn; Devlin, Keith (2018). "The Development of Data Science: Implications for Education, Employment, Research, and the Data Revolution for Sustainable Development". Big Data and Cognitive Computing. 2 (2): 14. doi:10.3390/bdcc2020014.
+ CaoLongbing (29 June 2017). "Data Science". ACM Computing Surveys. 50 (3): 1–42. doi:10.1145/3076253.
+ Wu, C.F. Jeff. "Statistics=Data Science?" (PDF). Retrieved 2 April 2020.
+ Press, Gil. "A Very Short History Of Data Science". Forbes. Retrieved 3 April 2020.
+ Gupta, Shanti (11 December 2015). "William S Cleveland". Retrieved 2 April 2020.
+ Talley, Jill (1 June 2016). "ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science". Amstat News. American Statistical Association.
+ Davenport, Thomas H.; Patil, D. J. (1 October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review (October 2012). ISSN 0017-8012. Retrieved 3 April 2020.
+ "US NSF - NSB-05-40, Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century". www.nsf.gov. Retrieved 3 April 2020.
+ Press, Gil. "Data Science: What's The Half-Life Of A Buzzword?". Forbes. Retrieved 3 April 2020.
+ Pham, Peter. "The Impacts Of Big Data That You May Not Have Heard Of". Forbes. Retrieved 3 April 2020.
+ Martin, Sophia (20 September 2019). "How Data Science will Impact Future of Businesses?". Medium. Retrieved 3 April 2020.
