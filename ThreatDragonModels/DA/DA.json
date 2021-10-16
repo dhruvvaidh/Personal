@@ -1,13 +1,14 @@
 {
   "summary": {
     "title": "DA",
-    "owner": "Dhruv Vaidh"
+    "owner": "Dhruv Vaidh",
+    "description": "no"
   },
   "detail": {
     "contributors": [],
     "diagrams": [
       {
-        "title": "dd",
+        "title": "Assignments_1",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
